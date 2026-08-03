@@ -1,6 +1,7 @@
 node_modules/
 .temp/
 dist/
+docs/
 .falcon_/
 *.amr
 *.log
